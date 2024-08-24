@@ -3,7 +3,7 @@
   # 👋 Hello, I'm Yeongchan🫡
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hades)](https://solved.ac/hades/)
   
-  I try to create services that give people convenience and pleasure. Working hard is my most powerful weapon.
+  🏃🏻‍♂️
 
   <br>
   
