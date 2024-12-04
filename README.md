@@ -1,8 +1,3 @@
-## 🏃🏻‍♂️ 김영찬, Kim Yeongchan </span>
-I'm a backend engineer who loves to think about problems fiercely and find the best solution. To make a positive impact on others, to make a great service, please watch me grow.
-
-<br>
-
 ## 🛠️ Tech Stack
 The following are tech stacks that I use a lot. Even if it's not the skill below, I have no fear of learning new skills.
 
